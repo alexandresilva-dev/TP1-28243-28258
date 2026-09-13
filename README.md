@@ -27,6 +27,7 @@ TP1-28243-28258/
 
 Team project developed with a classmate for a university course. The source code (comments, identifiers and some file names) is kept in Portuguese, exactly as originally submitted.
 
-## Author
+## Authors
 
-Alexandre Silva — [GitHub](https://github.com/alexandresilva-dev) · [LinkedIn](https://www.linkedin.com/in/alexandresilva-dev)
+- **Alexandre Silva** — [GitHub](https://github.com/alexandresilva-dev) · [LinkedIn](https://www.linkedin.com/in/alexandresilva-dev)
+- **Daniel Pereira** — [GitHub](https://github.com/danielpereira11)
